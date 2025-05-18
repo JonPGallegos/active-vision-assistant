@@ -1,6 +1,7 @@
 Active Vision Assistant
 
 Active Vision Assistant is an experimental eye-tracking program that uses artificial intelligence and computer vision to identify objects on a screen based on where the user is looking. The goal is to create a functional assistant capable of recognizing and highlighting on-screen content in real time, with the help of OpenCV and third-party APIs for object identification.
+
 🚀 Project Goals
 
     Develop an AI-driven eye-tracking system using OpenCV.
