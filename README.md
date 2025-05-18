@@ -26,13 +26,19 @@ Part One – Core Functionality
 
     API Integration for Object Identification
     Send gaze-zone image or coordinates to an external API for real-time object labeling.
+    
 
 🎯 Objectives & Milestones
-Objective	Target Completion Date
+Objective Target Completion Date
+
 Eye-tracking input prototype	[DATE: TBD]
+
 Screen coordinate mapping	[DATE: TBD]
+
 Gaze-zone object detection	[DATE: TBD]
+
 API integration & object recognition	[DATE: TBD]
+
 🧰 Technologies Used
 
     Python
