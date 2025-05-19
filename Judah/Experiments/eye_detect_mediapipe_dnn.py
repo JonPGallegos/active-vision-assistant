@@ -12,8 +12,8 @@ face_mesh = mp_face_mesh.FaceMesh(static_image_mode=False,
 
 # Load pre-trained DNN (MobileNet SSD) from OpenCV
 net = cv2.dnn.readNetFromCaffe(
-    "C:/Users/Judah/Documents/Projects/Active Vision Assistant/1. Active Vision Assistant/models/ssd/MobileNetSSD_deploy.prototxt",
-    "C:/Users/Judah/Documents/Projects/Active Vision Assistant/1. Active Vision Assistant/models/ssd/MobileNetSSD_deploy.caffemodel"
+    "C:/Users/Judah/Documents/Projects/Active Vision Assistant/1. Active Vision Assistant/models/ssd/MobileNetSSD_deploy.prototxt", # The location has changed, YOU NEED TO UP DATE THIS LINE FOR THE NEW LOCATION
+    "C:/Users/Judah/Documents/Projects/Active Vision Assistant/1. Active Vision Assistant/models/ssd/MobileNetSSD_deploy.caffemodel" # The location has changed, YOU NEED TO UP DATE THIS LINE FOR THE NEW LOCATION
 )
 
 
